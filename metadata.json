@@ -1,0 +1,8 @@
+{
+  "name": "Worldview",
+  "description": "A cinematic multi-phone capture and AI processing platform turning phone arrays into interpolated 3D experiences.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
